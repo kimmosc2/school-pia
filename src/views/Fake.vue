@@ -1,6 +1,6 @@
 <template>
   <div style="background-color: #f7f3f3">
-    <mt-header title="请假报备" style="background-color: #04C8E3;font-size: 18px"></mt-header>
+    <!-- <mt-header title="请假报备" style="background-color: #04C8E3;font-size: 18px"></mt-header> -->
     <mt-navbar v-model="selected">
       <mt-tab-item id="1" style="padding-top: 10px">请假报备</mt-tab-item>
       <mt-tab-item id="2" style="padding-top: 10px">报备记录</mt-tab-item>
